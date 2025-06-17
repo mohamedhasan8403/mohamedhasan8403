@@ -1,94 +1,30 @@
-# 👋 Hi, I'm Mohamed Hasan M
-
-## 🧠 About Me
-
-- 🏫 I am a **Full Stack Developer** & **AI Enthusiast**.
-- 🧑‍💻 I love using **Software as a Solution** for every problem.
-- 💻 I am a **competitive programmer** at [LeetCode](https://leetcode.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/), [Coding360](#), and [TUF](#).
-- 🧑‍🎓 I’m currently learning **Computer Science**, **Artificial Intelligence**, and **Data Science**.
-- 🤓 Always exploring and learning new things.
-- 🤔 I’m currently **open to new job opportunities** — this is **[MY RESUME](#)**.
-- 💥 You can visit **[MY WEBSITE](#)**.
+<h1 align="center">Hi , I'm Mohamed Hasan M 👋</h1>
 
 ---
 
-## 🧠 My Competitive Programming Profiles
-
-- [LeetCode](https://leetcode.com/)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)
-- [Codeforces](https://codeforces.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeChef](https://www.codechef.com/)
-- [Google](https://careers.google.com/)
+## <h2 align="center" style="color: gold;">Competitive</h2>
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" width="30"/> About me
 
-- 📧 [Gmail](mailto:youremail@example.com)
-- 💻 [GitHub](https://github.com/yourusername)
-- 💬 [WhatsApp](https://wa.me/yourphonenumber)
-- 👔 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- 🏫 I am a <code>Full Stack Developer & AI Enthusiast</code>.
+- 💻 I love using Software as a solution for every <code>Problem</code>.
+- 📘 I am a competitive programmer at 
+  <a href="https://leetcode.com/">Leetcode</a>, 
+  <a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a>, 
+  <a href="#">Coding360</a>, 
+  <a href="#">TUF</a>.
+- 🎓 I’m currently learning <code>Computer Science</code> and <code>Artificial Intelligence and Data Science</code>.
+- 🤓 Always <code>learning new things</code>.
+- 🤝 I’m currently open for a new <code>job opportunity</code>, this is 
+  <a href="#">MY RESUME</a>.
+- ✨ You can visit <a href="#">MY WEBSITE</a>.
 
----
-
-## 🛠️ My Skills
-
-### 👨‍💻 Programming Languages
-- C, C++, JavaScript, Java, Python
-
-### 🎨 Frontend Development
-- HTML, CSS, Python, JavaScript
-
-### 🧰 Software & Tools
-- Git, GitHub, Google Sheets, Markdown, Stack Overflow, GeeksForGeeks, JSON, OpenGL, Selenium
-
-### 💡 IDEs
-- Visual Studio Code, JetBrains, Atom, Eclipse
-
-### 🎯 Competitive Programming & Problem Solving
-- Codeforces, LeetCode, HackerRank, CodeChef, Google
+<p align="right">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-programming-4925212-4105239.png" width="250"/>
+</p>
 
 ---
 
-## 💻 Operating Systems
-- Windows, Linux, macOS
-
----
-
-## 💬 Quote
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
-
-## 📊 GitHub Stats
-
-![7oSkaaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7oSkaaa&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Profile Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=7oSkaaa&theme=algolia)
-
----
-
-## 🐍 A Snake Eating My Contributions Graph
-
-![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📂 My Repositories
-
-- [GitHub Stats](#)
-- [GitHub Projects](#)
-- [Code Samples](#)
-- [Open Source Contributions](#)
-
----
-
-> _Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
-
+## 🔍 My Competitive Programming Profiles
