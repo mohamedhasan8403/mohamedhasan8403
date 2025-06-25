@@ -37,12 +37,6 @@ I'm passionate about full stack development, with a particular love for crafting
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&langs_count=10&theme=default"/>
 </div>
 
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'mohamedhasan8403' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhasan8403&theme=default&hide_border=false" />
-</div>
 
 ## 💻 Tech Stack
 
