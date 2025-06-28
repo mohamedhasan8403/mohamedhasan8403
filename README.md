@@ -1,11 +1,21 @@
 # 👋 Hi, I'm Mohamed Hasan M
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</p>
+
 🚀 **Full Stack Developer | Flutter Enthusiast | UI/UX Designer | AI Explorer**
 
 I’m a passionate Computer Science Engineering student with a deep love for technology, problem-solving, and crafting meaningful digital experiences. My journey spans full stack development with **Java**, **cross-platform mobile apps** using **Flutter**, and intuitive **UI/UX designs** built in **Figma**. I also dive into **Python** and **AI/ML**, merging logic with creativity to build smart, user-centric solutions.
 
 > 💬 _"First, solve the problem. Then, write the code."_ – John Johnson  
 > 💻 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffa500&width=435&lines=I+Love+to+Code+👨‍💻;Always+Learning+New+Things+🚀;Building+AI+Apps+with+Flutter+💡;" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -83,7 +93,7 @@ I’m a passionate Computer Science Engineering student with a deep love for tec
 ![Spring Boot](https://img.shields.io/badge/Spring-4169e1?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💬 Programming Languages
+### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white)
@@ -99,7 +109,7 @@ I’m a passionate Computer Science Engineering student with a deep love for tec
 ![Pandas](https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-3CB371?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
