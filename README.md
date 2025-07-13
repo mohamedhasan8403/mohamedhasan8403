@@ -1,83 +1,102 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hasan M</h1>
+
+<h1 align="center">Hi 👋, I'm Mohamed Hasan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Spring+Boot+Enthusiast;DSA+%7C+Python+%7C+AI+Learner;Preparing+for+Top+MNC+Placements" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F70000&size=28&center=true&vCenter=true&width=1000&lines=Developer+%7C+Programmer+%7C+Tech+Enthusiast;Full+Stack+Java+Developer+in+Progress;Learning+DSA+%7C+C%2FC%2B%2B%2FJava+%7C+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+I’m a passionate Full Stack Developer focused on building scalable backend systems with Java & Spring Boot, and crafting responsive frontends using HTML, CSS, and JavaScript.
+
+I'm currently following a 52-week roadmap covering:
+
+- Full Stack Development with Java (Spring Boot)
+- Frontend with React.js
+- C → C++ → DSA for logic building
+- Python for AI/ML foundations
+- UI/UX using Figma
+- Core CS Subjects: OS, DBMS, CN, OOPs
+- Aptitude + Interview + Soft Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
+</p>
+
+---
+
+## 💻 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Java Full Stack (Spring Boot + React)  
+- DSA in C++ (Leetcode & Sheet)  
+- Python for AI/ML  
+- Building real-time full stack projects  
+- Preparing for tech interviews (HR + Coding)
+
+---
+
+## 🧠 Competitive Programming & Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/mohamedhasan8403/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hm0401234" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mohamedhank84/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
----
-
-### 💫 About Me:
-- 🌱 I’m currently learning **Java Full Stack Development**, **C/C++**, **DSA**, and **UI/UX Design**
-- 💼 Working on **52-week roadmap to crack top MNCs**
-- 🧠 Exploring **AI/ML**, **Flutter**, and **System Design**
-- 💬 Ask me about **C, Java, HTML, CSS, GitHub Projects**
-- 📫 How to reach me: **mohamedhasan8403@gmail.com**
-- ⚡ Fun fact: *"Code like there's no tomorrow. Debug like a detective."*
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/mohamedhasan8403" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="mailto:mohamedhasan8403@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=radical" alt="mohamedhasan8403" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350px" />
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhasan8403&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhasan8403&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
+## 📫 Let’s Connect
+
+[![Gmail](https://img.shields.io/badge/-mohamedhasan8403@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohamedhasan8403@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: mohamedhasan8403@gmail.com
-- 🔗 GitHub: [mohamedhasan8403](https://github.com/mohamedhasan8403)
-- 💼 LinkedIn: [mohamedhasan8403](https://linkedin.com/in/mohamedhasan8403)
-
----
-
-### 🚀 Let's Code and Grow Together!
-
-> *"Every bug you conquer makes you stronger."*
-
----
-
-### 🔥 Contribution Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+> ⚡ “Consistency. Focus. Growth. Repeat.”  
+> This is my journey from zero to top MNCs.
