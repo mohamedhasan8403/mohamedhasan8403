@@ -12,9 +12,9 @@
 ## 🙋‍♂️ About Me
 
 🌟 I’m **Mohamed Hasan**, a self-driven developer building a full-stack empire from scratch.  
-🔥 I’m on a mission to crack the top MNCs through sheer consistency and deep grind.
+🔥 On a mission to crack the top MNCs through consistency, code, and courage.
 
-💻 My current 52-week roadmap includes:
+🧭 My grind roadmap includes:
 - 🚀 Java Spring Boot Development
 - 🌐 HTML, CSS, JavaScript, React
 - 📊 C → C++ → DSA → Python
@@ -22,7 +22,8 @@
 - 🧠 CS Core: DBMS, OS, CN, OOPs
 - 🗣️ Aptitude, Communication, UI/UX
 
-📌 Every day I grow 1% better, coding not just for career — but for LEGACY.
+📌 I believe in: “Code. Fail. Fix. Rise.”  
+I don’t wait for chances. I build them.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
@@ -75,12 +76,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan8403&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan8403&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+## 🧩 Contribution Graph
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -98,5 +103,5 @@
 > **From zero to top MNCs — one repo at a time.**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px" />
 </p>
