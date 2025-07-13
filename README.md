@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mohamed Hasan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+from+India;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Grinder;I+Code+My+Way+to+the+Top+MNCs" alt="Typing SVG" />
@@ -12,22 +11,21 @@
 
 ## 🙋‍♂️ About Me
 
-🌟 I’m **Mohamed Hasan**, a self-driven and unstoppable developer grinding from the ground up to become a Full Stack + AI Machine!
+🌟 I’m **Mohamed Hasan**, a self-driven developer building a full-stack empire from scratch.  
+🔥 I’m on a mission to crack the top MNCs through sheer consistency and deep grind.
 
-🚀 Every day is a code day. I’ve designed my own 52-week master plan to master:
+💻 My current 52-week roadmap includes:
+- 🚀 Java Spring Boot Development
+- 🌐 HTML, CSS, JavaScript, React
+- 📊 C → C++ → DSA → Python
+- 🤖 AI/ML with Python & Scikit-learn
+- 🧠 CS Core: DBMS, OS, CN, OOPs
+- 🗣️ Aptitude, Communication, UI/UX
 
-- ⚙️ Java Spring Boot Development (Backend beast mode)
-- 🌐 HTML, CSS, JavaScript, React (Frontend ninja mode)
-- 🔍 C → C++ → DSA → Python (Logic sharpening like a blade)
-- 🤖 AI/ML with Python (Because the future is intelligent)
-- 🧠 Aptitude, DBMS, OS, CN, OOPs (CS core strong as steel)
-- 🧩 UI/UX Design, Resume polish, Soft Skills, Mock Interviews
-
-📍 From late night coding to early morning mock tests, I code, I fail, I fix, and I rise.  
-📌 Vision: Crack top product-based companies like Google, Microsoft, Zoho, or OpenAI.
+📌 Every day I grow 1% better, coding not just for career — but for LEGACY.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
 
 ---
@@ -43,13 +41,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="350px" />
 </p>
 
 ---
@@ -74,26 +71,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Contribution Power
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan8403&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/-mohamedhasan8403@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohamedhasan8403@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ---
 
-> 🔥 “The world doesn’t give you what you want.  
+> 💬 “The world doesn’t give you what you want.  
 > It gives you what you WORK for.”  
-> – From a boy with a dream to a man with a mission.
+>  
+> **From zero to top MNCs — one repo at a time.**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcxMzNlZDZkOTM0MTJlZmE3MTFiM2E2ZTk0YjI5MzUwNjJjM2E3ZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400px" />
 </p>
