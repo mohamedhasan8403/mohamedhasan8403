@@ -1,36 +1,38 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Hasan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Spring+Boot+Enthusiast;DSA+%7C+Python+%7C+AI+Learner;Preparing+for+Top+MNC+Placements" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+from+India;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Grinder;I+Code+My+Way+to+the+Top+MNCs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180px" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I’m a passionate Full Stack Developer focused on building scalable backend systems with Java & Spring Boot, and crafting responsive frontends using HTML, CSS, and JavaScript.
+🌟 I’m **Mohamed Hasan**, a self-driven and unstoppable developer grinding from the ground up to become a Full Stack + AI Machine!
 
-I'm currently following a 52-week roadmap covering:
+🚀 Every day is a code day. I’ve designed my own 52-week master plan to master:
 
-- Full Stack Development with Java (Spring Boot)
-- Frontend with React.js
-- C → C++ → DSA for logic building
-- Python for AI/ML foundations
-- UI/UX using Figma
-- Core CS Subjects: OS, DBMS, CN, OOPs
-- Aptitude + Interview + Soft Skills
+- ⚙️ Java Spring Boot Development (Backend beast mode)
+- 🌐 HTML, CSS, JavaScript, React (Frontend ninja mode)
+- 🔍 C → C++ → DSA → Python (Logic sharpening like a blade)
+- 🤖 AI/ML with Python (Because the future is intelligent)
+- 🧠 Aptitude, DBMS, OS, CN, OOPs (CS core strong as steel)
+- 🧩 UI/UX Design, Resume polish, Soft Skills, Mock Interviews
+
+📍 From late night coding to early morning mock tests, I code, I fail, I fix, and I rise.  
+📌 Vision: Crack top product-based companies like Google, Microsoft, Zoho, or OpenAI.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px"/>
 </p>
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -47,22 +49,12 @@ I'm currently following a 52-week roadmap covering:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" />
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-- Java Full Stack (Spring Boot + React)  
-- DSA in C++ (Leetcode & Sheet)  
-- Python for AI/ML  
-- Building real-time full stack projects  
-- Preparing for tech interviews (HR + Coding)
-
----
-
-## 🧠 Competitive Programming & Problem Solving
+## 🧠 Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/mohamedhasan8403/" target="_blank">
@@ -77,7 +69,7 @@ I'm currently following a 52-week roadmap covering:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350px" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400px" />
 </p>
 
 ---
@@ -85,8 +77,8 @@ I'm currently following a 52-week roadmap covering:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -98,5 +90,10 @@ I'm currently following a 52-week roadmap covering:
 
 ---
 
-> ⚡ “Consistency. Focus. Growth. Repeat.”  
-> This is my journey from zero to top MNCs.
+> 🔥 “The world doesn’t give you what you want.  
+> It gives you what you WORK for.”  
+> – From a boy with a dream to a man with a mission.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcxMzNlZDZkOTM0MTJlZmE3MTFiM2E2ZTk0YjI5MzUwNjJjM2E3ZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+</p>
