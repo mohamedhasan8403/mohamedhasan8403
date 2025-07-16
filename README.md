@@ -52,7 +52,7 @@ I don’t wait for chances. I build them.
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Competitive Programm
 
 <p align="center">
   <a href="https://leetcode.com/u/mohamedhasan8403/" target="_blank">
