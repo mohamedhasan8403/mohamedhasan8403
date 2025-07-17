@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hasan M</h1>
-<p align="center">
+<p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+from+India;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Grinder;I+Code+My+Way+to+the+Top+MNCs" alt="Typing SVG" />
 </p>
 
