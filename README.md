@@ -18,7 +18,7 @@
 📌 I grind daily on:
 - ⚙️ Java Spring Boot (Backend Power!)
 - 💻 HTML | CSS | JavaScript | React
-- 📈 DSA in C++ & Python
+- 📈 DSA in C++
 - 🧠 Core CS Subjects: DBMS, OS, CN, OOP
 - 🤖 AI & ML — Scikit-learn, Pandas
 - 🧩 UI/UX Design, Communication & Aptitude
