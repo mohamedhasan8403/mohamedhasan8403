@@ -134,7 +134,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan8403&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" />
 </p>
 
