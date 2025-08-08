@@ -111,7 +111,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhasan8403&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mohamedhasan8403&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -119,7 +119,7 @@
 ## 🌐 Contribution Graph
 
 <p align="center">
-  <img src="https://github-activity-graph.cyclic.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -127,7 +127,7 @@
 ## ✨ Dream Fuel – Words to Live By
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" />
 </p>
 
 > **“Dream big. Dare to dream. Because everything is possible.”**  
