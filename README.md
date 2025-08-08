@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hasan M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Grinder;I+Code+My+Way+to+the+Top+MNCs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Spring+Boot+Warrior;DSA+%7C+AI+%7C+ML+Grinder;I+Code+My+Way+to+Top+MNCs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200px" />
 </p>
 
 ---
@@ -50,7 +50,6 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
 </p>
 
 ### 🛠️ Software & Tools
@@ -65,7 +64,7 @@
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧰 IDEs
+### 💻 IDEs
 
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
@@ -74,7 +73,7 @@
   <img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?style=plastic&logo=eclipse%20ide&logoColor=white">
 </p>
 
-### 💻 Operating Systems
+### 🖥️ Operating Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
@@ -120,7 +119,7 @@
 ## 🌐 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true" />
+  <img src="https://github-activity-graph.cyclic.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -128,7 +127,7 @@
 ## ✨ Dream Fuel – Words to Live By
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="300px" />
 </p>
 
 > **“Dream big. Dare to dream. Because everything is possible.”**  
