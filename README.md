@@ -99,24 +99,20 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+ <summary><h3> 🔥 Streak Stats</h3></summary>
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedhasan8403&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan8403&layout=compact&theme=tokyonight" />
 </p>
 
----
+----	
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?username=mohamedhasan8403&theme=tokyonight&border_radius=5" alt="GitHub Streak" /></p>
 
-## 🌐 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&theme=react-dark&hide_border=true" />
-</p>
-
----
-
+----
 ## ✨ Dream Fuel – Words to Live By
 
 <p align="center">
