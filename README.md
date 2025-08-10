@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20from%20Mohamed%20Hasan%20%F0%9F%91%8B&animation=twinkling&height=100" alt="Greeting" />
-</p>
-
 # 👋 Hi, I'm Mohamed Hasan M
 
 <p align="center">
@@ -109,6 +105,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?username=mohamedhasan8403&theme=tokyonight&border_radius=5" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhasan8403&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
